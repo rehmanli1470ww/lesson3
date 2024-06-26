@@ -1,6 +1,34 @@
 .App {
   text-align: center;
 }
+b{
+  color: red;
+}
+.div1{
+  width: 1500px;
+  height: 650px;
+
+  display: inline-block;
+  overflow-y: scroll;
+  
+}
+.div2{
+  width: 400px;
+  height: 350px;
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.img{
+  width: 200px;
+  height: 200px;
+}
+.imgExpire{
+  width: 150px;
+  height: 150px;
+  margin-left: -180px;
+}
 
 .App-logo {
   height: 40vmin;
